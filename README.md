@@ -10,7 +10,7 @@
 **🔗 Live Demo:** https://claude.ai/public/artifacts/4f37e448-9ebf-4df7-8fa0-ed907d915543
 
 ### 📸 Dashboard Preview
-[JoFraud Lab Dashboard](./dashboard-preview.jpg)
+![JoFraud Lab Dashboard](./dashboard-preview.jpg.JPG)
 
 ### 🚀 Key Features
 - 📊 50 Simulated Transactions - Jordan-focused with CliQ, Card, IBAN
